@@ -55,3 +55,8 @@
 6.过期数据检测：通过对MongoDB数据库下HomePage集合中的数据检测，并通过时间的比对，查找到四天及以前的数据，通过其赛事ID，将其他集合下的该赛事数据清除，该文件每天零点刷新；
 
 7.main项目启动入口：将上面每个爬虫文件导入该文件，并通过multiprocessing中的Process创建多进程，启动每一个爬虫文件。
+
+
+
+账号: Cruiser.ydlkr@gradesec.com
+密码: Digit123456
